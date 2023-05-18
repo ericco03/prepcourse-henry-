@@ -1,2 +1,1 @@
-# prepcourse-henry-
-es un repositorio nuevo del modulo dos de henry 
+este es un proyecyo sobre gitbash 
